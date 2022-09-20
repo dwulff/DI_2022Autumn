@@ -25,13 +25,7 @@ e {
 
 <a href="https://dwulff.github.io/Rationality_2021Autumn/assets/pdf/Gigerenzer2021.pdf">Gigerenzer (2021)</a>,
 
-Answer for yourself:
-1. What is axiomatic rationality?
-2. What are small worlds?
-3. What is incoherence?
-4. What is less-is-more?
-5. What is ecological rationality?
-
+Lean coffee
 
 ## 04.10.
 
