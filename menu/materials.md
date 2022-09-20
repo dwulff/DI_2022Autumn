@@ -23,7 +23,7 @@ e {
 
 <e>A bunch of terms</e>
 
-Discussion of <a href="https://dwulff.github.io/Rationality_2022Autumn/assets/pdf/Gigerenzer2021.pdf">Gigerenzer (2021)</a> using Lean Coffee
+Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Gigerenzer2021.pdf">Gigerenzer (2021)</a> using Lean Coffee
 
 ## 04.10.
 
