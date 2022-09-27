@@ -27,11 +27,17 @@ Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Gigeren
 
 ## 04.10.
 
+<e>Heuristics and biases</e>
+
+Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Tversky&Kahneman1973Heuristics&Biases.pdf">Tversky & Kahneman (1973)</a>
+
 ## 11.10.
 
 ## 18.10.
 
 ## 25.10.
+
+<e>Prepare for debate (NO CLASS)</e>
 
 ## 01.11.
 
