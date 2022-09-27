@@ -25,6 +25,8 @@ e {
 
 Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Gigerenzer2021.pdf">Gigerenzer (2021)</a> using Lean Coffee
 
+<a href="https://www.leancoffeetable.com/TaskBoard/View/b375e780-9113-481b-90d5-09842550dd3a?guest=true">Join Lean Coffee</a>
+
 ## 04.10.
 
 <e>Heuristics and biases</e>
