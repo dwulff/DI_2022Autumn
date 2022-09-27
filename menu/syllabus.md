@@ -16,7 +16,8 @@ Learn about key concepts concerning the intersection of human decision making an
 The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill the following requirements:
 1. Reading and preparing the literature.
 2. Involved participation in dicussions and presentations. 
-3. Active and passive participantion in two <a href="menu/debatten">Debates</a>
+3. Passing 2 out of 4 quizzes.  
+4. Active and passive participantion in two <a href="menu/debatten">Debates</a>
 
 ## Agenda
 See <a href="materials">Agenda & Materials</a>
