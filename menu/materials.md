@@ -35,11 +35,24 @@ Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Tversky
 
 ## 11.10.
 
+<e>Experimental methods</e>
+
+Introduction by Tomá Lejarraga
+
+Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/LejarragaHertwig2021.pdf">Lejarraga & Hertwig (1921)</a>
+
 ## 18.10.
+
+<e>Bias-variance dilemma</e>
+
+Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/GigerenzerBrighton2012.pdf">Gigerenzer & Brighton (2012)</a>
+
 
 ## 25.10.
 
 <e>Prepare for debate (NO CLASS)</e>
+
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/CroskerryEtAl2013.pdf">Croskerry et al. (2013)</a>
 
 ## 01.11.
 
