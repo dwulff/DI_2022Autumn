@@ -39,7 +39,7 @@ Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Tversky
 
 Introduction by Tomá Lejarraga
 
-Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/LejarragaHertwig2021.pdf">Lejarraga & Hertwig (1921)</a>
+Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/LejarragaHertwig2021.pdf">Lejarraga & Hertwig (1921)</a> using <a href="https://www.leancoffeetable.com/TaskBoard/View/b375e780-9113-481b-90d5-09842550dd3a?guest=true">Join Lean Coffee</a>
 
 ## 18.10.
 
