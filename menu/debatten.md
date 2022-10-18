@@ -10,66 +10,59 @@ title: Debatten
   }
 </style>
 
-Im Laufe des Seminars finden drei Debatten in einer Team-Version des "Lincoln-Douglas Debate"-Formats statt.
+In this seminar, there will be two debates following the Lincoln-Douglas format.
 
 ## Format
 
-Das "Lincoln-Douglas Debate"-Format sieht die rhetorische Auseinandersetzung zweier Teams in sieben Schritten hinsichtlich einer spezifischen Aussage vor, wobei ein Team die Affirmative und ein Team die Negative Position vertritt, d.h., Pro und Contra respektive argumentiert. Zwischen den einzelnen Schritten haben die Teams jeweils 3 Minuten zur Vorbereitung.  
+The Lincoln-Douglas format structures a debate of a resolution between an <i>affirmative</i>, which argues in favor of the resolution and a <i>negative</i>, which argues against the resolution. In includes seven steps--four steps for the affirmative and three for the negative--with specific conditions in terms of time and content. The debates in this seminar will implement a team of variant of the Lincoln-Douglas format. In this variant, the debate steps will presented by one (or more) different members of two teams of debaters and there will be 3 minutes time in-between steps for the teams to prepare the next step. At the end of the debate, seminar participants who did not partake in the debate will judge which side delivered the more convincing arguments and thus won the debate. 
 
-An der Debatte beteiligte Gruppen treffen sich im Vorfeld mindestens einmal um die einzelnen Debattenabschnitte vorzubereiten.
+### Seven steps of the Lincoln-Douglas format
 
-Die jeweils nicht an der Debatte beteiligte Gruppe beurteilt und kommentiert den Ausgang der Debatte.
-
-
-### 7 Schritte des "Lincoln-Douglas Debate"-Formats
-
-Weitere Instruktionen hier
+Some more instructions can be found <a href="https://dwulff.github.io/Rationality_2020Autumn/assets/pdf/ld_format.pdf"><b>here</b></a>.
 
 <table cellspacing="0" cellpadding="0">
 <col width="30%">
 <col width="20%">
 <col width="50%">
 <tr>
-  <td><b>Schritt</b></td>
-  <td><b>Zeit</b></td>
-  <td><b>Inhalt</b></td>
+  <td><b>Step</b></td>
+  <td><b>Time</b></td>
+  <td><b>Content</b></td>
 </tr>
 <tr>
   <td>Affirmative constructive</td>
   <td>6 min</td>
-  <td>Die Affirmative eröffnet mit ihrem vorbereiteten "Case".</td>
+  <td>The affirmative opens by presenting their case.</td>
 </tr>
 <tr>
-  <td>Cross Examination</td>
+  <td>Cross examination</td>
   <td>3 min</td>
-  <td>Die Negative stellt kritische Fragen an die Affirmative.</td>
+  <td>The negative poses critical questions to the affirmative.</td>
 </tr>
 <tr>
-  <td>Negative Constructive</td>
+  <td>Negative constructive</td>
   <td>7 min</td>
-  <td>Die Negative stellt ihren vorbereiteten "Case" vor und geht auf Punkte der Affirmative ein.</td>
+  <td>The negative presents their case. They may address points of the affirmative's case.</td>
 </tr>
 <tr>
-  <td>Cross Examination</td>
+  <td>Cross examination</td>
   <td>3 min</td>
-  <td>Die Affirmative stellt kritische Fragen an die Negative.</td>
+  <td>The affirmative poses critical questions to the negative.</td>
 </tr>
 <tr>
-  <td>1. Affirmative rebuttal</td>
+  <td>First affirmative rebuttal</td>
   <td>4 min</td>
-  <td>Die Affirmative geht auf den "Case" der Negativen ein und bestätigt eigene Positionen. Keine neuen Argumente erlaubt.</td>
+  <td>The affirmative responds to the case of the negative and reiterates their position without bringing new arguments.</td>
 </tr>
 <tr>
   <td>Negative rebuttal</td>
   <td>6 min</td>
-  <td>Die Negative geht auf das Rebuttal ein und fasst ihre Argumente zusammen. Keine neuen Argumente erlaubt.</td>
+  <td>The negative responds to the rebuttal and reiterates and summarizes their position without bringing new arguments.</td>
 </tr>
 <tr>
-  <td>2. Affirmative rebuttal</td>
+  <td>Second affirmative rebuttal</td>
   <td>4 min</td>
-  <td>Die Affirmative geht auf das Rebuttal ein und fasst ihre Argumente zusammen. Keine neuen Argumente erlaubt.</td>
+  <td>The affirmative responds to the rebuttal and summarizes their position without bringing new arguments.</td>
 </tr>
 
 </table>
-
-Finde weitere Instruktionen <a href="https://dwulff.github.io/Rationality_2020Autumn/assets/pdf/ld_format.pdf"><b>hier</b></a>.
