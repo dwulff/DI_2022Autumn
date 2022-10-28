@@ -58,7 +58,7 @@ Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/CroskerryEtAl201
 
 <e>Debate I: Decision making</e>
 
-Resolution: Health care professionals (e.g., Physicians) should be permitted to rely on heuristic in their decision making
+Resolution: Health care professionals (e.g., Physicians) should be permitted to rely on heuristics in their decision making
 
 ## 08.11.
 
