@@ -47,7 +47,6 @@ Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Lejarra
 
 Discussion of <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/GigerenzerBrighton2012.pdf">Gigerenzer & Brighton (2012)</a>
 
-
 ## 25.10.
 
 <e>Prepare for debate (NO CLASS)</e>
@@ -62,22 +61,47 @@ Resolution: Healthcare professionals (e.g., Physicians) should be permitted to r
 
 ## 08.11.
 
+<e>Psych in ML</e>
+
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/RichGureckis2019.pdf">Rich & Gureckis (2019)</a>
+
 ## 15.11.
+
+<e>ML in Psych</e>
+
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/YarkoniWestfall2017.pdf">Yarkoni & Westfall (2017)</a>
 
 ## 22.11.
 
+<e>Bias</e>
+
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/TayEtAl2022.pdf">Tay et al. (2022)</a>
+
 ## 29.11.
+
+<e>Interpretatibility</e>
+
+<!---
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/TayEtAl2022.pdf">Tay et al. (2022)</a>
+--->
 
 ## 06.12.
 
+<e>AI alignment</e>
+
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Yudkowsky2016.pdf">Yudkowsky et al. (2016</a>
+
 ## 13.12.
+
+<e>Prepare for debate (NO CLASS)</e>
+
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/Tegmark2017Omegas.pdf">Tegmark (2017)</a>
+
+## 20.12.
 
 <e>Debate II: AI</e>
 
-
-
-
-
+Resolution: Artificial intelligence will improve our lives
 
 <!---
 ## 21.09.
