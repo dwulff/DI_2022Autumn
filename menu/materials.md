@@ -63,7 +63,7 @@ Resolution: Healthcare professionals (e.g., Physicians) should be permitted to r
 
 <e>Psych in ML</e>
 
-Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/RichGureckis2019.pdf">Rich & Gureckis (2019)</a>
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/RichGureckis2019.pdf">Rich & Gureckis (2019)</a> and discuss via <a href="https://www.leancoffeetable.com/TaskBoard/View/2de0cda2-7e3e-4f33-b2f2-98d8c5e505f5?guest=true">Lean Coffee<-/a>
 
 ## 15.11.
 
