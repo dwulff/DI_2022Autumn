@@ -79,11 +79,9 @@ Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/TayEtAl2022.pdf"
 
 ## 29.11.
 
-<e>Interpretatibility</e>
+<e>Transparency</e>
 
-<!---
-Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/TayEtAl2022.pdf">Tay et al. (2022)</a>
---->
+Read <a href="https://dwulff.github.io/DI_2022Autumn/assets/pdf/FineLichtFineLicht2020Transparency.pdf">Fine Licht & Fine Licht (2020)</a>
 
 ## 06.12.
 
